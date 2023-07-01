@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nannakaroliina
 - 👀 I’m interested in coding 👩🏼‍💻, games 🎮, AI/ML/DL, hiking, photography 📷, design, drawing (pencil or digital) and music 🎶 
-- 🌱 I’m currently learning to become better developer, DevOps and MLOps
+- 🌱 I’m currently learning to become better at DevOps
 - 📫 You can reach me through email
 
 <!---
